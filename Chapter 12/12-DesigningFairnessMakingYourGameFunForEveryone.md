@@ -1,0 +1,2 @@
+12. **"Designing Fairness: Making Your Game Fun for Everyone"**
+    - Teach kids how to design fair games with balanced rules so that everyone has an equal chance to succeed, no matter their skill level.

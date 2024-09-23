@@ -1,0 +1,2 @@
+8. **"Fun and Challenge: Why We Keep Playing"**
+   - Explain how games balance fun and challenge to keep players interested, and help kids understand why too easy or too hard games aren’t as enjoyable.

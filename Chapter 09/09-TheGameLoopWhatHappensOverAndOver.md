@@ -1,0 +1,2 @@
+9. **"The Game Loop: What Happens Over and Over?"**
+   - Teach children about the core loop in games, the repeating cycle of actions (like jumping, collecting coins, and fighting enemies) that keeps games engaging.

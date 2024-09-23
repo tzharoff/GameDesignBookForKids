@@ -1,0 +1,2 @@
+6. **"The Goal: What Are You Trying to Achieve?"**
+   - Discuss the importance of goals in games, whether it’s winning, completing levels, or scoring points, and how goals make games fun and rewarding.

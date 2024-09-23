@@ -1,0 +1,2 @@
+19. **"Game Mechanics: What You Can Do in a Game"**
+    - Break down game mechanics (the actions players can take), like jumping, running, collecting, or building, and how they define what a game is about.
