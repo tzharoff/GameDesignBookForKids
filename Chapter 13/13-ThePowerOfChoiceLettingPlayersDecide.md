@@ -101,6 +101,5 @@
 
 ### 20. **Activity: Designing a Game with Meaningful Choices**
    - End the chapter with an interactive activity where kids design a
-
- simple game that includes meaningful choices, such as choosing characters, paths, or strategies.
+    simple game that includes meaningful choices, such as choosing characters, paths, or strategies.
    - Encourage them to think about how the choices will affect gameplay, the story, or the outcome, and how these choices will make the game more engaging for players.
